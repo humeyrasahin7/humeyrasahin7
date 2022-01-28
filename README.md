@@ -9,11 +9,15 @@
 
 - 📫 How to reach me **bme.humeyrasahin@outlook.com**
 
-- ⚡ Fun fact **I can speak 3 languages** 🇹🇷🇬🇧🇰🇷
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bme-humeyrasahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bme-humeyrasahin" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages I Can Speak:</h3>
+<p align="left">
+<img src="https://github.com/brianherbert/flags/blob/master/countries/normal/tr.png" width="60" height="40"/> <img src="https://github.com/brianherbert/flags/blob/master/countries/normal/kr.png" width="60" height="40"/> <img src="https://github.com/brianherbert/flags/blob/master/countries/normal/gb.png" width="60" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
