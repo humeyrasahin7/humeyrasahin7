@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bme.humeyrasahin@outlook.com**
 
-- ⚡ Fun fact **I can speak 3 languages**
+- ⚡ Fun fact **I can speak 3 languages** 🇹🇷🇬🇧🇰🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
