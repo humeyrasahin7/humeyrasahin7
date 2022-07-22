@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humeyrasahin7" alt="humeyrasahin7" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently working on **Swift**
 
 - 📫 How to reach me **bme.humeyrasahin@outlook.com**
 
