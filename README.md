@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humeyra Sahin</h1>
-<h3 align="center">A newbie iOS Developer</h3>
+<h3 align="center">iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humeyrasahin7&label=Profile%20Views&color=0e75b6&style=plastic" alt="humeyrasahin7" /> </p>
 
